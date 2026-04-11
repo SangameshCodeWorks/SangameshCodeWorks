@@ -1,4 +1,4 @@
-# ⚡ Sangamesh | Java & DSA | ನಮಸ್ಕಾರ!
+# ⚡ ನಾನು ಸಂಗಮೇಶ್ | Java & DSA | ನಮಸ್ಕಾರ!
 
 <!-- 🌌 ELITE GRADIENT BANNER -->
 <p align="center">
