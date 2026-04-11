@@ -1,16 +1,16 @@
 # ⚡ Sangamesh | Java & DSA | ನಮಸ್ಕಾರ!
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F9AF7&center=true&vCenter=true&width=500&lines=Java+Developer;DSA+Learner+%7C+Day+1%2F100;Full+Stack+Learner;Consistency+Everyday" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F9AF7&center=true&vCenter=true&width=500&lines=Python+Developer(using ai);JAVA + DSA+Learner+%7C+Day+1%2F100;Full+Stack+Learner;Consistency+Everyday" />
 </p>
 
 ---
 
 ### 🚀 My Current Focus
 
-* 🎓 MCA Student @ Presidency University, Bangalore
+* 🎓 MCA Student @ Bangalore (- 🤖 Familiar with AI tools and capable of building practical solutions efficiently) 
 * 🧠 Daily DSA Practice in **Java (Day 1/100)**
-* 🏗️ Learning **Full Stack Development (Java + React)**
+* 🏗️ Learning **Full Stack Development (Python using Ai)**
 * 📍 Karnataka, India
 * ⚡ Building discipline through daily coding
 
@@ -18,7 +18,7 @@
 
 ### 📅 DSA Daily Progress
 
-* ✅ Day 1: Arrays Basics
+* ✅ Day 1: Basics components of Java 
 * ⏳ Updating daily...
 
 ---
