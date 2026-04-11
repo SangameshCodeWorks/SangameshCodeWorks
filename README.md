@@ -1,10 +1,27 @@
 # ⚡ Sangamesh | Java & DSA | ನಮಸ್ಕಾರ!
 
+<!-- 🔥 Gradient Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3F9AF7&center=true&vCenter=true&width=500&lines=Python+Developer(using ai);JAVA + DSA+Learner+%7C+Day+1%2F100;Full+Stack+Learner;Consistency+Everyday" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Sangamesh%20CodeWorks&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
----
+<!-- ⚡ Premium Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Sangamesh+%F0%9F%91%8B;Java+Developer+%7C+DSA+Learner;Building+Projects+with+AI+Tools;Future+Full+Stack+Engineer;Consistency+%3D+Success+%F0%9F%94%A5" />
+</p>
+
+<!-- 🔥 Animated Badges -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Java%20%26%20DSA-blue?style=for-the-badge&logo=java" />
+  <img src="https://img.shields.io/badge/Learning-Full%20Stack-green?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Tools-AI%20Driven-orange?style=for-the-badge&logo=openai" />
+  <img src="https://img.shields.io/badge/Status-Building%20Daily-red?style=for-the-badge&logo=github" />
+</p>
+
+<!-- ⚡ Clean Section Separator -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+</p>
 
 ### 🚀 My Current Focus
 
