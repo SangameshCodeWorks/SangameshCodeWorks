@@ -1,26 +1,26 @@
 # ⚡ Sangamesh | Java & DSA | ನಮಸ್ಕಾರ!
 
-<!-- 🔥 Gradient Banner -->
+<!-- 🌌 ELITE GRADIENT BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=Sangamesh%20CodeWorks&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=240&section=header&text=Sangamesh%20CodeWorks&fontSize=45&fontColor=EAEAEA&animation=fadeIn&fontAlignY=38&desc=Building%20in%20Public%20%7C%20Learning%20Everyday&descAlignY=60&descSize=18" />
 </p>
 
-<!-- ⚡ Premium Typing Animation -->
+<!-- ⚡ PREMIUM TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Sangamesh+%F0%9F%91%8B;Java+Developer+%7C+DSA+Learner;Building+Projects+with+AI+Tools;Future+Full+Stack+Engineer;Consistency+%3D+Success+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=BB86FC&center=true&vCenter=true&width=750&lines=Hi+I'm+Sangamesh+%F0%9F%91%8B;Java+Developer+%7C+DSA+Learner;Building+Real+Projects+with+AI;Future+Full+Stack+Engineer;Consistency+is+My+Superpower+%F0%9F%94%A5" />
 </p>
 
-<!-- 🔥 Animated Badges -->
+<!-- 🔥 PREMIUM BADGES (GLASS STYLE FEEL) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Java%20%26%20DSA-blue?style=for-the-badge&logo=java" />
-  <img src="https://img.shields.io/badge/Learning-Full%20Stack-green?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Tools-AI%20Driven-orange?style=for-the-badge&logo=openai" />
-  <img src="https://img.shields.io/badge/Status-Building%20Daily-red?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-Java%20%26%20DSA-1F1F1F?style=for-the-badge&logo=java&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Learning-Full%20Stack-1F1F1F?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/AI-Tools%20Driven-1F1F1F?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Building%20Daily-1F1F1F?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
-<!-- ⚡ Clean Section Separator -->
+<!-- ✨ MINIMAL DIVIDER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:BB86FC,100:03DAC6&height=3" />
 </p>
 
 ### 🚀 My Current Focus
