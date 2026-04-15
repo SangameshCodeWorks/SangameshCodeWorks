@@ -7,7 +7,7 @@
 
 <!-- ⚡ PREMIUM TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=BB86FC&center=true&vCenter=true&width=750&lines=Hi+I'm+Sangamesh+%F0%9F%91%8B;Java+Developer+%7C+DSA+Learner;Building+Real+Projects+with+AI;Future+Full+Stack+Engineer;Consistency+is+My+Superpower+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=BB86FC&center=true&vCenter=true&width=750&lines=Hi+I'm+Sangamesh+%F0%9F%91%8B;Python+Developer+%7C+DSA+Learner;Building+Real+Projects+with+AI;Future+Full+Stack+Engineer;Consistency+is+My+Superpower+%F0%9F%94%A5" />
 </p>
 
 <!-- 🔥 PREMIUM BADGES (GLASS STYLE FEEL) -->
@@ -26,7 +26,7 @@
 ### 🚀 My Current Focus
 
 * 🎓 MCA Student @ Bangalore (- 🤖 Familiar with AI tools and capable of building practical solutions efficiently) 
-* 🧠 Daily DSA Practice in **Java (Day 1/100)**
+* 🧠 Daily DSA Practice in **Python (Day 1/100)**
 * 🏗️ Learning **Full Stack Development (Python using Ai)**
 * 📍 Karnataka, India
 * ⚡ Building discipline through daily coding
