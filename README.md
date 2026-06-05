@@ -1,4 +1,4 @@
-# ⚡ ನಾನು ಸಂಗಮೇಶ್ | Java & DSA | ನಮಸ್ಕಾರ!
+# ⚡ ನಾನು ಸಂಗಮೇಶ್ | Python & DSA | ನಮಸ್ಕಾರ!
 
 <!-- 🌌 ELITE GRADIENT BANNER -->
 <p align="center">
@@ -35,7 +35,7 @@
 
 ### 📅 DSA Daily Progress
 
-* ✅ Day 1: Basics components of Java 
+* ✅ Day 1: Basics components of Python 
 * ⏳ Updating daily...
 
 ---
