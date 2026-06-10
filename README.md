@@ -26,7 +26,7 @@
 ### 🚀 My Current Focus
 
 * 🎓 MCA Student @ Bangalore (- 🤖 Familiar with AI tools and capable of building practical solutions efficiently) 
-* 🧠 Daily DSA Practice in **Python (Day 1/100)**
+* 🧠 Daily DSA Practice in **JAVA (Day 1/100)**
 * 🏗️ Learning **Full Stack Development (Python using Ai)**
 * 📍 Karnataka, India
 * ⚡ Building discipline through daily coding
