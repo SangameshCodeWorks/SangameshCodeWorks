@@ -35,7 +35,7 @@
 
 ### 📅 DSA Daily Progress
 
-* ✅ Day 1: Basics components of Python 
+* ✅ Day 1: Basics components of JAVA
 * ⏳ Updating daily...
 
 ---
