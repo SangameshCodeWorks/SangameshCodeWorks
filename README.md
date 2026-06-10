@@ -1,4 +1,4 @@
-# ⚡ ನಾನು ಸಂಗಮೇಶ್ | Python & DSA | ನಮಸ್ಕಾರ!
+# ⚡ ನಾನು ಸಂಗಮೇಶ್ | JAVA & DSA | ನಮಸ್ಕಾರ!
 
 <!-- 🌌 ELITE GRADIENT BANNER -->
 <p align="center">
@@ -7,12 +7,12 @@
 
 <!-- ⚡ PREMIUM TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=BB86FC&center=true&vCenter=true&width=750&lines=Hi+I'm+Sangamesh+%F0%9F%91%8B;Python+Developer+%7C+DSA+Learner;Building+Real+Projects+with+AI;Future+Full+Stack+Engineer;Consistency+is+My+Superpower+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=BB86FC&center=true&vCenter=true&width=750&lines=Hi+I'm+Sangamesh+%F0%9F%91%8B;JAVA+Developer+%7C+DSA+Learner;Building+Real+Projects+with+AI;Future+Full+Stack+Engineer;Consistency+is+My+Superpower+%F0%9F%94%A5" />
 </p>
 
 <!-- 🔥 PREMIUM BADGES (GLASS STYLE FEEL) -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Python%20%26%20DSA-1F1F1F?style=for-the-badge&logo=python&logoColor=orange" />
+  <img src="https://img.shields.io/badge/Focus-JAVA%20%26%20DSA-1F1F1F?style=for-the-badge&logo=JAVA&logoColor=orange" />
   <img src="https://img.shields.io/badge/Learning-Full%20Stack-1F1F1F?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/AI-Tools%20Driven-1F1F1F?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Status-Building%20Daily-1F1F1F?style=for-the-badge&logo=github&logoColor=white" />
