@@ -35,9 +35,7 @@
 
 ### 📅 DSA Daily Progress
 
-* ✅ Day 1: Basics components of JAVA
-* ⏳ Updating daily...
-
+* ✅  Basics components of JAVA
 ---
 
 ### 🛠️ Tech Stack
