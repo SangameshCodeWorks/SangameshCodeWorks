@@ -7,7 +7,7 @@
 
 <!-- ⚡ PREMIUM TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=BB86FC&center=true&vCenter=true&width=750&lines=Hi+I'm+Sangamesh+%F0%9F%91%8B;JAVA and PYTHON+Developer+%7C+DSA+Learner;Building+Real+Projects+with+AI;Future+Full+Stack+Engineer;Consistency+is+My+Superpower+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=BB86FC&center=true&vCenter=true&width=750&lines=Hi+I'm+Sangamesh+%F0%9F%91%8B;JAVA-and-PYTHON+Developer+%7C+DSA+Learner;Building+Real+Projects+with+AI;Future+Full+Stack+Engineer;Consistency+is+My+Superpower+%F0%9F%94%A5" />
 </p>
 
 <!-- 🔥 PREMIUM BADGES (GLASS STYLE FEEL) -->
