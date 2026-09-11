@@ -1,4 +1,4 @@
-# ⚡ ನಾನು ಸಂಗಮೇಶ್ | JAVA & DSA | ನಮಸ್ಕಾರ!
+# ⚡ ನಾನು ಸಂಗಮೇಶ್ | Python & DSA | ನಮಸ್ಕಾರ!
 
 <!-- 🌌 ELITE GRADIENT BANNER -->
 <p align="center">
