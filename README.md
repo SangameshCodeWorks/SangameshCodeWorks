@@ -29,7 +29,7 @@
 * 🧠 Daily DSA Practice in **Python with Consistency**
 * 🏗️ Learning **Full Stack Development (Python using Ai)**
 * 📍 Karnataka, India
-* ⚡ Building discipline through daily coding(Tring my level Best)
+* ⚡ Building discipline through daily coding(Trying my level Best)
 
 ---
 
@@ -48,6 +48,7 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postgresql-F05032?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ---
