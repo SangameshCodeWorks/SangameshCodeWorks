@@ -7,7 +7,7 @@
 
 <!-- ⚡ PREMIUM TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=BB86FC&center=true&vCenter=true&width=750&lines=Hi+I'm+Sangamesh+%F0%9F%91%8B;JAVA-and-PYTHON+Developer+%7C+DSA+Learner;Building+Real+Projects+with+AI;Future+Full+Stack+Engineer;Consistency+is+My+Superpower+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=2600&pause=900&color=BB86FC&center=true&vCenter=true&width=750&lines=Hi+I'm+Sangamesh+%F0%9F%91%8B;Python-and-Java+Developer+%7C+DSA+Learner;Building+Real+Projects+with+AI;Future+Full+Stack+Engineer;Consistency+is+My+Superpower+%F0%9F%94%A5" />
 </p>
 
 <!-- 🔥 PREMIUM BADGES (GLASS STYLE FEEL) -->
@@ -25,17 +25,17 @@
 
 ### 🚀 My Current Focus
 
-* 🎓 MCA Student @ Bangalore (- 🤖 Familiar with AI tools and capable of building practical solutions efficiently) 
-* 🧠 Daily DSA Practice in **JAVA (Day 1/100)**
+* 🎓 MCA Graduate @ Bangalore (- 🤖 Familiar with AI tools and capable of building practical solutions efficiently) 
+* 🧠 Daily DSA Practice in **Python with Consistency**
 * 🏗️ Learning **Full Stack Development (Python using Ai)**
 * 📍 Karnataka, India
-* ⚡ Building discipline through daily coding
+* ⚡ Building discipline through daily coding(Tring my level Best)
 
 ---
 
 ### 📅 DSA Daily Progress
 
-* ✅  Basics components of JAVA
+* ✅  Starting from Basic To Advance
 ---
 
 ### 🛠️ Tech Stack
@@ -54,7 +54,7 @@
 
 ### 🚀 Beginner Projects (Learning Phase)
 
-* 🔹 Student Management System (Java + SQL)
+* 🔹 Student Management System (Python + SQL)
 * 🔹 To-Do List App (JavaScript)
 * 🔹 Calculator App
 * 🔹 Notes App (CRUD)
