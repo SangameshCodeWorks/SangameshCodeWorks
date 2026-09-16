@@ -71,56 +71,47 @@ Consistently practicing **Data Structures & Algorithms using Python** and docume
   <b>Tools & technologies I work with</b>
 </p>
 
-### 💻 Primary Languages & DSA
+#### 💻 Primary Languages & DSA
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,java" />
+  <img src="https://skillicons.dev/icons?i=python,js,java" height="48" />
 </p>
 
----
-
-### 🌐 Frontend Development
+#### 🌐 Frontend Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="48" />
 </p>
 
----
-
-### ⚙️ Backend Frameworks & APIs
+#### ⚙️ Backend Frameworks & APIs
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express" />
+  <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,express" height="48" />
 </p>
 
----
-
-### 🗄️ Databases & Caching
+#### 🗄️ Databases & Caching
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" height="48" />
 </p>
 
----
-
-### ☁️ DevOps, Cloud & Tools
+#### ☁️ DevOps, Cloud & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=aws,linux,git,github,vscode,postman" height="48" />
 </p>
 
 <p align="center">
-  <img src="https://cdn.simpleicons.org/cursor/FFFFFF" width="52" height="52" />
+  <img src="https://cdn.simpleicons.org/cursor/FFFFFF" height="48" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/antigravity-google/default.svg" width="52" height="52" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/antigravity-google/default.svg" height="48" />
 </p>
 
 <p align="center">
   <sub><b>Cursor</b></sub>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <sub><b>Antigravity</b></sub>
 </p>
-
 ## About Me
 
 I'm **Sangamesh Jainapur**, an **MCA graduate** based in Bengaluru, Karnataka, with a strong interest in **Python development, AI/ML, Data Structures & Algorithms, and Full-Stack development**.
