@@ -65,61 +65,142 @@ Consistently practicing **Data Structures & Algorithms using Python** and docume
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 <p align="center">
-
-### Programming & DSA
-
-<img src="https://skillicons.dev/icons?i=python" height="65" />
-<img src="https://skillicons.dev/icons?i=java" height="65" />
-<img src="https://skillicons.dev/icons?i=javascript" height="65" />
-
-<br><br>
-
-### Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html" height="65" />
-<img src="https://skillicons.dev/icons?i=css" height="65" />
-<img src="https://skillicons.dev/icons?i=javascript" height="65" />
-<img src="https://skillicons.dev/icons?i=react" height="65" />
-<img src="https://skillicons.dev/icons?i=tailwind" height="65" />
-<img src="https://skillicons.dev/icons?i=bootstrap" height="65" />
-
-<br><br>
-
-### Backend Frameworks & APIs
-
-<img src="https://skillicons.dev/icons?i=django" height="65" />
-<img src="https://skillicons.dev/icons?i=fastapi" height="65" />
-<img src="https://skillicons.dev/icons?i=nodejs" height="65" />
-<img src="https://skillicons.dev/icons?i=express" height="65" />
-
-<br><br>
-
-### Databases & Caching
-
-<img src="https://skillicons.dev/icons?i=mysql" height="65" />
-<img src="https://skillicons.dev/icons?i=mongodb" height="65" />
-<img src="https://skillicons.dev/icons?i=postgres" height="65" />
-<img src="https://skillicons.dev/icons?i=redis" height="65" />
-
-<br><br>
-
-### DevOps, Cloud & Tools
-
-<img src="https://skillicons.dev/icons?i=aws" height="65" />
-<img src="https://skillicons.dev/icons?i=linux" height="65" />
-<img src="https://skillicons.dev/icons?i=git" height="65" />
-<img src="https://skillicons.dev/icons?i=github" height="65" />
-<img src="https://skillicons.dev/icons?i=vscode" height="65" />
-<img src="https://skillicons.dev/icons?i=cursor" height="65" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Antigravity-1A1B26?style=for-the-badge&logoColor=white" height="65" />
-
+  <b>Tools & technologies I work with</b>
 </p>
+
+### 💻 Programming & DSA
+
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60"/><br/>
+      <b>Python</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60"/><br/>
+      <b>JavaScript</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="60"/><br/>
+      <b>Java</b>
+    </td>
+  </tr>
+</table>
+
+### 🌐 Frontend Development
+
+<table align="center">
+  <tr>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="55"/><br/>
+      <b>HTML5</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="55"/><br/>
+      <b>CSS3</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="55"/><br/>
+      <b>JavaScript</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="55"/><br/>
+      <b>React</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="55"/><br/>
+      <b>Tailwind CSS</b>
+    </td>
+    <td align="center" width="130">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="55"/><br/>
+      <b>Bootstrap</b>
+    </td>
+  </tr>
+</table>
+
+### ⚙️ Backend Frameworks & APIs
+
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="60"/><br/>
+      <b>Django</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="60"/><br/>
+      <b>FastAPI</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60"/><br/>
+      <b>Node.js</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="60"/><br/>
+      <b>Express.js</b>
+    </td>
+  </tr>
+</table>
+
+### 🗄️ Databases & Caching
+
+<table align="center">
+  <tr>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="60"/><br/>
+      <b>MySQL</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="60"/><br/>
+      <b>MongoDB</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="60"/><br/>
+      <b>PostgreSQL</b>
+    </td>
+    <td align="center" width="140">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="60"/><br/>
+      <b>Redis</b>
+    </td>
+  </tr>
+</table>
+
+### ☁️ DevOps, Cloud & Tools
+
+<table align="center">
+  <tr>
+    <td align="center" width="125">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="65"/><br/>
+      <b>AWS</b>
+    </td>
+    <td align="center" width="125">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="60"/><br/>
+      <b>Linux</b>
+    </td>
+    <td align="center" width="125">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="60"/><br/>
+      <b>Git</b>
+    </td>
+    <td align="center" width="125">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="60"/><br/>
+      <b>GitHub</b>
+    </td>
+    <td align="center" width="125">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="60"/><br/>
+      <b>VS Code</b>
+    </td>
+    <td align="center" width="125">
+      <img src="https://skillicons.dev/icons?i=cursor" width="60"/><br/>
+      <b>Cursor</b>
+    </td>
+    <td align="center" width="125">
+      <img src="https://img.shields.io/badge/Antigravity-1A1B26?style=for-the-badge" width="100"/><br/>
+      <b>Antigravity</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
