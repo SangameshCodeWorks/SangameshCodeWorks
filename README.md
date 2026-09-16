@@ -112,6 +112,8 @@ Consistently practicing **Data Structures & Algorithms using Python** and docume
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <sub><b>Antigravity</b></sub>
 </p>
+
+
 ## About Me
 
 I'm **Sangamesh Jainapur**, an **MCA graduate** based in Bengaluru, Karnataka, with a strong interest in **Python development, AI/ML, Data Structures & Algorithms, and Full-Stack development**.
