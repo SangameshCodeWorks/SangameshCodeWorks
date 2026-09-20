@@ -1,4 +1,4 @@
-# ನಮಸ್ಕಾರ! | Sangamesh Jainapur | Python & DSA
+# ನಮಸ್ಕಾರ! | Sangamesh Jainapur | Python Fullstack & DSA
 
 <!-- 🌌 ELITE GRADIENT BANNER -->
 <p align="center">
