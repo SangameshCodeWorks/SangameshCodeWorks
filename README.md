@@ -56,6 +56,13 @@
 Consistently practicing **Data Structures & Algorithms using Python** and documenting my solutions.
 
 <p align="center">
+  <a href="https://github.com/SangameshCodeWorks/daily_python_practice.git">
+    <img src="https://img.shields.io/badge/View%20My%20DSA%20Progress-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+
+<p align="center">
   <a href="https://github.com/SangameshCodeWorks/coding-solutions-hackerank-leetcode-">
     <img src="https://img.shields.io/badge/View%20My%20DSA%20Progress-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
