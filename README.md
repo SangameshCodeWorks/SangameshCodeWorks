@@ -2,7 +2,7 @@
 
 <!-- 🌌 ELITE GRADIENT BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=240&section=header&text=Sangamesh%20CodeWorks&fontSize=45&fontColor=EAEAEA&animation=fadeIn&fontAlignY=38&desc=Building%20in%20Public%20%7C%20Learning%20Everyday&descAlignY=60&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:243B55&height=240&section=header&text=Sangamesh%20Jainapur&fontSize=45&fontColor=EAEAEA&animation=fadeIn&fontAlignY=38&desc=Building%20in%20Public%20%7C%20Learning%20Everyday&descAlignY=60&descSize=18" />
 </p>
 
 <!-- PREMIUM TYPING ANIMATION -->
