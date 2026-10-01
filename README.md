@@ -152,14 +152,14 @@ I'm continuously working on strengthening my fundamentals, building practical pr
 ## GitHub Profile Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SangameshCodeWorks&label=Profile%20Views&color=764ba2&style=flat-square" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSangameshCodeWorks&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" />
-  <img src="https://img.shields.io/github/followers/SangameshCodeWorks?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" />
-  <img src="https://img.shields.io/github/stars/SangameshCodeWorks?affiliations=OWNER&label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" />
+  <img src="https://komarev.com/ghpvc/?username=Sangu-M&label=Profile%20Views&color=764ba2&style=flat-square" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSangu-Ms&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" />
+  <img src="https://img.shields.io/github/followers/Sangu-M?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" />
+  <img src="https://img.shields.io/github/stars/Sangu-Ms?affiliations=OWNER&label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SangameshCodeWorks&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Sangu-M&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -167,7 +167,7 @@ I'm continuously working on strengthening my fundamentals, building practical pr
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/SangameshCodeWorks/SangameshCodeWorks/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://github.com/Sangu-M/Sangu-M/blob/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
@@ -176,7 +176,7 @@ I'm continuously working on strengthening my fundamentals, building practical pr
 
 <p align="center">
 
-<a href="https://github.com/SangameshCodeWorks">
+<a href="https://github.com/Sangu-M">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b26" />
 </a>
 
@@ -205,7 +205,7 @@ I'm continuously working on strengthening my fundamentals, building practical pr
 **Always open to learning, collaborating, building meaningful projects, and connecting with fellow developers.**
 
 <p align="center">
-  <a href="https://github.com/SangameshCodeWorks">
+  <a href="https://github.com/Sangu-M">
     <img src="https://img.shields.io/badge/Explore%20My%20Work-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
