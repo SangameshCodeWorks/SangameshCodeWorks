@@ -153,7 +153,7 @@ I'm continuously working on strengthening my fundamentals, building practical pr
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sangu-M&label=Profile%20Views&color=764ba2&style=flat-square" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSangu-Ms&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FSangu-M&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f093fb&labelColor=1a1b26" />
   <img src="https://img.shields.io/github/followers/Sangu-M?label=Followers&style=flat-square&color=667eea&labelColor=1a1b26" />
   <img src="https://img.shields.io/github/stars/Sangu-M?affiliations=OWNER&label=Stars&style=flat-square&color=764ba2&labelColor=1a1b26" />
 </p>
