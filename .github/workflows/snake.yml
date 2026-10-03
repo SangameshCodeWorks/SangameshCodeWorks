@@ -16,7 +16,7 @@ jobs:
       - name: Generate snake
         uses: Platane/snk@v3
         with:
-          github_user_name: SangameshCodeWorks
+          github_user_name: Sangu-M
           outputs: dist/github-contribution-grid-snake.svg
 
       - name: Push snake to output branch
