@@ -167,7 +167,7 @@ I'm continuously working on strengthening my fundamentals, building practical pr
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Sangu-M/Sangu-M/blob/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/Sangu-M/Sangu-M/output/github-contribution-grid-snake.svg">
 </p>
 
 ---
